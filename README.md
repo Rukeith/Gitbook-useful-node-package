@@ -7,8 +7,8 @@ A note is used to record commonly useful node packages
 ## Middleware
 
 * [Helmet - 應用安全防護](https://github.com/Rukeith/gitbook-useful-node-package/blob/master/helmet.md)
-* [Compress - ](https://github.com/Rukeith/gitbook-useful-node-package/blob/master/compress.md)
-* [Csurf - ](https://github.com/Rukeith/gitbook-useful-node-package/blob/master/csurf.md)
+* [Compress - ](https://github.com/Rukeith/gitbook-useful-node-package/blob/master/compress.md)壓縮程式體積
+* [Csurf - ](https://github.com/Rukeith/gitbook-useful-node-package/blob/master/csurf.md)防止 csurf 攻擊
 * [Log4js - 日誌管理工具](https://github.com/Rukeith/gitbook-useful-node-package/blob/master/log4js.md)
 
 ## Module
