@@ -24,7 +24,7 @@ yarn add helmet
 
 **使用方法：**
 
-make sure these middlewares are listed before \`app.router\`.
+make sure these middlewares are listed before `app.router`.
 
 ```js
 import Express from 'express';
